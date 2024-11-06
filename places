@@ -1,0 +1,57 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/leeao/fun/linuxc/"
+  (dired-filename . "/home/leeao/fun/linuxc/helloworld"))
+ ("/home/leeao/fun/linuxc/helloworld/"
+  (dired-filename . "/home/leeao/fun/linuxc/helloworld/main.c"))
+ ("/nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev/include/stdio.h"
+  . 11371)
+ ("/home/leeao/fun/linuxc/helloworld/main.c" . 94)
+ ("/home/leeao/.emacs.d/init.el" . 14332)
+ ("/nix/store/63w41dwl0nmm4xdmk5qq11zmiv79s046-emacs-gtk3-30.0.91/share/emacs/30.0.91/etc/HELLO"
+  . 76)
+ ("/home/leeao/" (dired-filename . "/home/leeao/fun"))
+ ("/home/leeao/fun/" (dired-filename . "/home/leeao/fun/linuxc"))
+ ("/home/leeao/config/" (dired-filename . "/home/leeao/config/nixos"))
+ ("/home/leeao/config/nixos/"
+  (dired-filename . "/home/leeao/config/nixos/modules"))
+ ("/home/leeao/config/nixos/modules/"
+  (dired-filename . "/home/leeao/config/nixos/modules/emacs.nix"))
+ ("/home/leeao/config/nixos/modules/emacs.nix" . 1589)
+ ("/home/leeao/fun/linuxc/flake.nix" . 993)
+ ("/home/leeao/fun/linuxc/helloworld/makefile" . 30)
+ ("/home/leeao/.emacs.d/"
+  (dired-filename . "/home/leeao/.emacs.d/lisp"))
+ ("/home/leeao/config/nixos/modules/enviroment.nix" . 479)
+ ("/home/leeao/config/flake.nix" . 893)
+ ("/home/leeao/fun/rust/"
+  (dired-filename . "/home/leeao/fun/rust/rust-projects"))
+ ("/home/leeao/fun/rust/rust-projects/"
+  (dired-filename . "/home/leeao/fun/rust/rust-projects/cilicili"))
+ ("/home/leeao/fun/rust/rust-projects/cilicili/"
+  (dired-filename . "/home/leeao/fun/rust/rust-projects/cilicili/src"))
+ ("/home/leeao/fun/rust/rust-projects/cilicili/src/"
+  (dired-filename
+   . "/home/leeao/fun/rust/rust-projects/cilicili/src/main.rs"))
+ ("/home/leeao/fun/rust/rust-projects/cilicili/src/main.rs" . 12)
+ ("/home/leeao/fun/latex/CQUPTtex/main.tex" . 1111)
+ ("/home/leeao/fun/latex/flake.nix" . 634)
+ ("/home/leeao/config/home-manager/" . 15)
+ ("/home/leeao/config/build.sh" . 148)
+ ("/home/leeao/fun/hugo/book/content/_index.md" . 51)
+ ("/home/leeao/fun/hugo/book/content/docs/shortcodes/" . 37)
+ ("/home/leeao/fun/hugo/book/content/docs/" . 35)
+ ("/home/leeao/fun/hugo/book/content/posts/" . 29)
+ ("/home/leeao/fun/hugo/book/content/" . 24)
+ ("/home/leeao/fun/hugo/book/"
+  (dired-filename . "/home/leeao/fun/hugo/book/archetypes"))
+ ("/home/leeao/fun/hugo/" . 15)
+ ("/home/leeao/fun/tauri/"
+  (dired-filename . "/home/leeao/fun/tauri/shell.nix"))
+ ("/home/leeao/fun/tauri/shell.nix" . 206)
+ ("/home/leeao/fun/latex/"
+  (dired-filename . "/home/leeao/fun/latex/CQUPTtex"))
+ ("/home/leeao/fun/latex/CQUPTtex/"
+  (dired-filename . "/home/leeao/fun/latex/CQUPTtex/main.tex"))
+ ("/nix/store/63w41dwl0nmm4xdmk5qq11zmiv79s046-emacs-gtk3-30.0.91/share/emacs/30.0.91/etc/NEWS"
+  . 52)
+ ("/home/leeao/watch/" (dired-filename . "/home/leeao/watch/guitar")))
